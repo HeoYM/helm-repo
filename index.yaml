@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-09-25T07:31:17.841140511Z"
+    description: test app
+    digest: 650909651a54c48e579d1e45683cab625e02a190b691f46f9be375ba0427f676
+    name: myapp
+    urls:
+    - https://HeoYM.github.io/helm-repo/myapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-25T07:31:17.840703914Z"
